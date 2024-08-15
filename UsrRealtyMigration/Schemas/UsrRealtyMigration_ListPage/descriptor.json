@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "84c1e869-7dee-4ce5-94dc-a09c421659e0",
+    "Name": "UsrRealtyMigration_ListPage",
+    "ModifiedOnUtc": "\/Date(1723747875000)\/",
+    "Parent": {
+      "UId": "3334b6c0-c8ab-4b59-a367-0c9182102552",
+      "Name": "ListPageV2Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Realty Migration list page",
+    "DependsOn": []
+  }
+}
