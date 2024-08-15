@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="My applications homepage" />
+			<Item Name="LocalizableStrings.ChartWidget_vaa924d_series_0.Value" Value="Realty" />
+			<Item Name="LocalizableStrings.ChartWidget_vaa924d_title.Value" Value="Realty by type" />
+			<Item Name="LocalizableStrings.IndicatorWidget_wimc3ez_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.IndicatorWidget_wimc3ez_title.Value" Value="Houses count" />
+			<Item Name="LocalizableStrings.IndicatorWidget_zavdnf9_title.Value" Value="New metric" />
+		</Items>
+	</Group>
+</Resources>
