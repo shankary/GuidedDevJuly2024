@@ -1,14 +1,32 @@
-{
+﻿{
   "PackageData": [
     {
       "Row": [
         {
           "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
-          "Value": "ccc67761-8b65-4a5e-9857-232a3a79a190"
+          "Value": "973baa9b-6223-4a08-8c01-ae41c8971a51"
+        },
+        {
+          "SchemaColumnUId": "0e3d3857-2203-40e4-b1ec-8e972007650e",
+          "Value": "c9969eef-85a8-4d8c-87ab-5cb6dc4534a0",
+          "DisplayValue": "My applications"
+        },
+        {
+          "SchemaColumnUId": "991cf5ef-ffb8-49a5-add3-074a595f6c43",
+          "Value": "07fcb934-8c5e-464c-b33e-22f5e4a94272",
+          "DisplayValue": "Realty Classic"
         },
         {
           "SchemaColumnUId": "bd12ea8e-2bc2-42bf-925a-3ab766cc0b9f",
-          "Value": 26
+          "Value": 2
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "d1e35fa6-affc-43e1-85b8-2d23de3258e4"
         },
         {
           "SchemaColumnUId": "0e3d3857-2203-40e4-b1ec-8e972007650e",
@@ -19,6 +37,10 @@
           "SchemaColumnUId": "991cf5ef-ffb8-49a5-add3-074a595f6c43",
           "Value": "bd012400-fa53-4441-bc82-27567a498ea7",
           "DisplayValue": "Realty Migration"
+        },
+        {
+          "SchemaColumnUId": "bd12ea8e-2bc2-42bf-925a-3ab766cc0b9f",
+          "Value": 0
         }
       ]
     }

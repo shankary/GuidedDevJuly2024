@@ -20,6 +20,7 @@
 			<Item Name="LocalizableStrings.GridDetailRefreshBtn_u0kkrit_caption.Value" Value="Refresh" />
 			<Item Name="LocalizableStrings.GridDetailSearchFilter_t9gwxy2_placeholder.Value" Value="Search" />
 			<Item Name="LocalizableStrings.GridDetailSettingsBtn_vc7kauh_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.MenuItem_2u47vf6_caption.Value" Value="Run service to calcu max price" />
 			<Item Name="LocalizableStrings.MenuItem_t6i8zta_caption.Value" Value="Calculate average price" />
 			<Item Name="LocalizableStrings.NumberInput_b142x0i_label.Value" Value="Number" />
 			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Price cannot be less than 50.0 USD" />
